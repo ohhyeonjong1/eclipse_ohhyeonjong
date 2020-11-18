@@ -4,5 +4,6 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("오현종");
 		System.out.println("20173226");
+		System.out.println("컴퓨터소프트웨어공학과");
 	}
 }
